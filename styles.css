@@ -5,7 +5,8 @@ body{
 .header{
 	background-color: #011e29;
 	color:white;
-	padding:8px;
+	padding:10px;
+	text-align:center;
 }
 .header>h1{
 	text-align:center;
